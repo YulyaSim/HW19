@@ -1,0 +1,5 @@
+﻿  PracticalWork19.cpp
+C:\PracticalWork4\PracticalWork19\PracticalWork19\PracticalWork19.cpp(57,14): error C2371: p: переопределение; различные базовые типы
+  C:\PracticalWork4\PracticalWork19\PracticalWork19\PracticalWork19.cpp(56,14):
+   см. объявление "p"
+  
